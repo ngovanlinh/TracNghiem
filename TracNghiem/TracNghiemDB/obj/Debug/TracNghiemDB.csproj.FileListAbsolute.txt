@@ -1,0 +1,6 @@
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiemDB\bin\Debug\TracNghiemDB.dll
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiemDB\bin\Debug\TracNghiemDB.pdb
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiemDB\obj\Debug\TracNghiemDB.csprojAssemblyReference.cache
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiemDB\obj\Debug\TracNghiemDB.csproj.CoreCompileInputs.cache
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiemDB\obj\Debug\TracNghiemDB.dll
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiemDB\obj\Debug\TracNghiemDB.pdb

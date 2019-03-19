@@ -47,3 +47,5 @@ D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiem\obj\Debug\TracNghiem.cspr
 D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiem\obj\Debug\TracNghiem.csproj.CopyComplete
 D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiem\obj\Debug\TracNghiem.dll
 D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiem\obj\Debug\TracNghiem.pdb
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiem\bin\TracNghiemDB.dll
+D:\PROJECT\TracNghiem\TracNghiem\TracNghiem\TracNghiem\bin\TracNghiemDB.pdb
