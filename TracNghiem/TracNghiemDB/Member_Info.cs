@@ -38,6 +38,7 @@ namespace TracNghiemDB
             {
                 this._id = _id;
                 this._name = t.Rows[0]["Name"].ToString();
+                this._username = t.Rows[0]["UserName"].ToString();
             }
         }
         #endregion
